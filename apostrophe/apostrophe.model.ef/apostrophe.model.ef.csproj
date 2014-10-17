@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Entities\BlogPostEntity.cs" />
     <Compile Include="Repository\EntityFrameworkRepository.cs" />
     <Compile Include="Repository\IDbDataProvider.cs" />
     <Compile Include="Migrations\201410140229111_Initial-migration.cs">
