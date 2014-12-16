@@ -169,6 +169,7 @@
     <Compile Include="Controllers\AboutController.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Controllers\BlogPostsApiController.cs" />
     <Compile Include="Controllers\BlogPostsController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Global.asax.cs">
