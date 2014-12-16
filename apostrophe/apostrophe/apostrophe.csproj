@@ -142,6 +142,7 @@
     <Content Include="Content\bootstrap.css.map" />
     <Content Include="Scripts\app\app.js" />
     <Content Include="Scripts\app\controllers\postsController.js" />
+    <Content Include="Scripts\app\services\postsService.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\i18n\angular-locale_es-us.js" />
