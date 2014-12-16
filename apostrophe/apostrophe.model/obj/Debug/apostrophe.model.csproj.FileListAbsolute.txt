@@ -1,0 +1,5 @@
+D:\GitHub\ablog\apostrophe\apostrophe.model\bin\Debug\apostrophe.model.dll
+D:\GitHub\ablog\apostrophe\apostrophe.model\bin\Debug\apostrophe.model.pdb
+D:\GitHub\ablog\apostrophe\apostrophe.model\obj\Debug\apostrophe.model.csprojResolveAssemblyReference.cache
+D:\GitHub\ablog\apostrophe\apostrophe.model\obj\Debug\apostrophe.model.dll
+D:\GitHub\ablog\apostrophe\apostrophe.model\obj\Debug\apostrophe.model.pdb

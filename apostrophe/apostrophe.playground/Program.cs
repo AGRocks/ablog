@@ -1,4 +1,5 @@
-﻿using System;
+﻿using apostrophe.model.ef;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,6 +11,8 @@ namespace apostrophe.playground
     {
         static void Main(string[] args)
         {
+            var context = new ModelContext();
+            var result = context.BlogPosts.ToList();
         }
     }
 }
